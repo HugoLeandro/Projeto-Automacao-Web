@@ -1,0 +1,1 @@
+Este projeto emprega a automação do Selenium para realizar pesquisas no Google Shopping e no Buscapé, com o objetivo de coletar uma lista de produtos que se enquadram em um intervalo de preços específico, definido por um valor mínimo e máximo. Todas as informações coletadas são então organizadas e transferidas para uma planilha do Excel.
